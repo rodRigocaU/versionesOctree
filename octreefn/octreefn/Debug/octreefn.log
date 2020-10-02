@@ -1,0 +1,26 @@
+﻿  octreefn.cpp
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(408,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(85,1): warning C4244: '*=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(78): message : al compilar la función del miembro clase plantilla "int octree<int>::searchminArea(point<T> *,point<T> *)"
+          with
+          [
+              T=int
+          ]
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(439): message : Vea la referencia a la creación de una instancia de la función plantilla "int octree<int>::searchminArea(point<T> *,point<T> *)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(407): message : Vea la referencia a la creación de una instancia de clase plantilla "octree<int>" que se está compilando
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(60,13): warning C4101: 'areaMin': variable local sin referencia
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(54): message : al compilar la función del miembro clase plantilla "octree<int>::octree(T,T,T,T,T,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\HP\source\repos\octreefn\octreefn\octreefn.cpp(407): message : Vea la referencia a la creación de una instancia de la función plantilla "octree<int>::octree(T,T,T,T,T,T)" que se está compilando
+          with
+          [
+              T=int
+          ]
+  octreefn.vcxproj -> C:\Users\HP\source\repos\octreefn\Debug\octreefn.exe
